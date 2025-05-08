@@ -30,7 +30,6 @@
 ### Prerequisites
 
 * Python 3.8 or higher
-* [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (required for `npx`)
 * An OpenAI API key (`OPENAI_API_KEY`): To obtain an OpenAI API key, please visit the [OpenAI API Keys page](https://platform.openai.com/account/api-keys) 
 
 Ensure you have these prerequisites in place before proceeding with the setup.
