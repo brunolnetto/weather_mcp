@@ -6,12 +6,12 @@
 
 ## 📋 Table of Contents
 
-* [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
-* [API Endpoints](#api-endpoints)
-* [Contributing](#contributing)
-* [License](#license)
+* [Features](##features)
+* [Installation](##installation)
+* [Usage](##usage)
+* [API Endpoints](##api-endpoints)
+* [Contributing](##contributing)
+* [License](##license)
 
 ---
 
